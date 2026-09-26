@@ -43,3 +43,9 @@ auth-db.data
 
 **В результате неисправность устранена, а подключение `web-consumer` к `auth-db` восстановлено.**
 
+<img width="1552" height="856" alt="hw-kub-12-1" src="https://github.com/user-attachments/assets/7b50b92c-2693-458f-a45f-625e3023fe28" />
+
+<img width="1528" height="4582" alt="hw-kub-12-2" src="https://github.com/user-attachments/assets/c1817b63-30bb-4273-b28c-9ac5be0647e1" />
+
+
+
